@@ -9,7 +9,7 @@
 Based on [labelImg](https://github.com/tzutalin/labelImg), we add many useful annotate tools, in **Annoatate-tools** and **Video-tools** menu, including：
 
 - **`TOOL LIST`**：
-- [x] **Auto Annotate**：anto annotate images using yolov5 detector
+- [x] **Auto Annotate**：anto annotate images using yolov7 detector
 - [x] **Tracking Annotate**：using tracking method in opencv, annotate video data
 - [x] **Magnifing Lens**：helpful when annotating small objects, optional function
 - [x] **Data Agument**：data agument
