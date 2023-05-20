@@ -35,8 +35,8 @@ Based on [labelImg](https://github.com/tzutalin/labelImg), we add many useful an
 1. clone this repo：
 
    ```bash
-   git clone https://github.com/yuchen02/AutoLabelImg
-   cd AutoLabelImg
+   git clone https://github.com/ZayneYe/AutoLabelImg_yolov7.git
+   cd AutoLabelImg_yolov7
    ```
 
 2. install requirments：
