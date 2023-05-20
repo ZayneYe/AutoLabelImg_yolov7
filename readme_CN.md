@@ -35,8 +35,8 @@
 1. 复制仓库：
 
    ```bash
-   git clone https://github.com/yuchen02/AutoLabelImg
-   cd AutoLabelImg
+   git clone https://github.com/ZayneYe/AutoLabelImg_yolov7.git
+   cd AutoLabelImg_yolov7
    ```
 
 2. 安装依赖：
