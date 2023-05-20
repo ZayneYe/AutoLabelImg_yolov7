@@ -62,10 +62,10 @@
    pyrcc5 -o libs/resources.py resources.qrc
    ```
    
-4. 准备yolov5模型并放置在如下位置，官方模型获取参考[Yolov5](https://github.com/ultralytics/yolov5)
+4. 准备yolov7模型并放置在如下位置，官方模型获取参考[Yolov7](https://github.com/WongKinYiu/yolov7)
 
    ```bash
-   mv {your_model_weight.pt} pytorch_yolov5/weights/
+   mv {your_model_weight.pt} yolov7/weights/
    ```
 
 5. 打开软件，开始标注
