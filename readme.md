@@ -65,7 +65,7 @@ Based on [labelImg](https://github.com/tzutalin/labelImg), we add many useful an
 4. prepare yolov5 weights file and move them to here: [official model zoo:[Yolov5](https://github.com/ultralytics/yolov5)]
 
    ```bash
-   mv {your_model_weight.pt} pytorch_yolov5/weights/
+   mv {your_model_weight.pt} yolov7/weights/
    ```
 
 5. open labelimg software
